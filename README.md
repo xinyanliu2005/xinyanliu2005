@@ -1,6 +1,6 @@
 # Hi, I'm Xinyan Liu 👋
 
-I'm a third-year Computer Science student at the **University of Melbourne**, interested in machine learning, systems programming, and building software that solves real problems.
+I'm a third-year Computer Science student at the **University of Melbourne**, interested in artificial intelligence, systems programming, and building software that solves real problems.
 
 🌐 **Portfolio:** [xinyanliu2005.github.io](https://xinyanliu2005.github.io)  
 📍 **Melbourne, Australia**  
@@ -38,16 +38,16 @@ I'm a third-year Computer Science student at the **University of Melbourne**, in
 
 | Project | Description | Stack |
 |---|---|---|
-| 🗓️ [Study Planner App](#) | Web app for spaced-repetition study scheduling | React, Node.js, SQLite |
-| 🖥️ [CLI Task Manager](#) | Terminal productivity tool with tagging & priority queuing | Python, Click, Rich |
-| 🗺️ [Pathfinding Visualiser](#) | Interactive BFS/DFS/Dijkstra visualiser on a grid | JavaScript, HTML Canvas |
+| 🗓️ [Study Planner App](#) | Desktop app for spaced-repetition study scheduling | React, Node.js, SQLite |
+| 🖥️ [Shadow Dungeon Game](#) | A puzzle platformer game that allows characters with different skills to defeat enemies and collect coins. | Java |
+| 🗺️ [Mafia Recording Website](#) | An interactive website that holds record and leaderboard for Mafia games | JavaScript, SQLite |
 
 ---
 
 ## 🎯 Long-term Vision
 
-I want to work at the intersection of systems design and machine learning — building infrastructure that makes AI more reliable and accessible. I'm considering graduate research after my degree, with interest in AI safety and robust ML.
+I want to work at the intersection of systems design and artificial intelligence — building infrastructure that makes AI more reliable and accessible. I'm considering graduate research after my degree, with interest in AI safety and robust ML.
 
 ---
 
-*Always happy to chat — reach me at your.email@example.com*
+*Always happy to chat — reach me at axyliu001@gmail.com*
